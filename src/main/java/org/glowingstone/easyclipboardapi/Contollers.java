@@ -18,9 +18,4 @@ public class Contollers {
         System.out.println("query done");
         return Funcs.getHandler();
     }
-    @RequestMapping("/analyze")
-    public String getAnalyse{
-        //TODOO
-        return null;
-    }
 }
